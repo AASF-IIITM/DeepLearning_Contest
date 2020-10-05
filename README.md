@@ -24,6 +24,7 @@ git checkout -b <branch_name>
       git add <competition_notebook>.ipynb
       git commit -m "Custom Message"
       ```
+#### Note: You can upload the notebook on [Google Colab](https://colab.research.google.com/) or [Kaggle](https://www.kaggle.com/notebooks/welcome), make the changes, then download the updated notebook.
 5. Push those changes back to your repository.
 ```
 git push -u origin <branch_name>
