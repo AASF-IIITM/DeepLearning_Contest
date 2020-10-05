@@ -4,6 +4,9 @@ This repository contains the sample notebook and instructions on how to particip
 Fill out [this form](https://docs.google.com/forms/u/4/d/e/1FAIpQLSeT350Nmgu7yEOnrkxPgLn3F1WWjaJtzbrcm9g25bGvCUAutw/viewform?usp=send_form) before proceeding.<br>
 After understanding the concepts taught in the session, apply them here by making a Pull Request to this repository!
 ### ***Remember, the Pull Request must be made on branch corresponding to your name.***
+
+#### Note: The deadline for submission is 11th October, 11:59PM, 2020; any submission after the deadline will not be considered.
+
 ## Steps to make a submission for the competition:
 1. Fork this repository.
 2. Clone it to your local system.
