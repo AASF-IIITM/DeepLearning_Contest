@@ -1,7 +1,7 @@
 # Intro to Deep Learning and Kaggle
 This repository contains the sample notebook and instructions on how to participate in the contest.
 ## How to participate
-Fill out [this form](https://docs.google.com/forms/u/4/d/e/1FAIpQLSeT350Nmgu7yEOnrkxPgLn3F1WWjaJtzbrcm9g25bGvCUAutw/viewform?usp=send_form) before proceeding.<br>
+Fill out [this form](https://docs.google.com/forms/u/4/d/e/1FAIpQLSeT350Nmgu7yEOnrkxPgLn3F1WWjaJtzbrcm9g25bGvCUAutw/viewform?usp=send_form) before proceeding. If you missed out on the session, here's the [recorded version](https://drive.google.com/file/d/1gCfMSV55w-vfjvS5-os44nYtquY7sRIS/view?usp=sharing)!<br>
 After understanding the concepts taught in the session, apply them here by making a Pull Request to this repository!
 ### ***Remember, the Pull Request must be made on branch corresponding to your name.***
 
